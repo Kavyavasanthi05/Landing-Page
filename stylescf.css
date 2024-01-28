@@ -1,0 +1,163 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+
+h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
+header {
+   font-size: 22px;
+    
+    color: #fff;
+    text-align: center; 
+}
+nav {
+    text-align: center; 
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('http://wallpapercave.com/wp/Aww6cC4.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
+
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s; 
+}
+
+nav ul li a:hover {
+    color: #ffcc00; 
+    text-shadow: 0 0 10px #ffcc00; 
+}
+h1 {
+    margin: 0;
+    font-size: 48px; 
+    text-align: center; 
+}
+#about p {
+    font-size: 19px;
+    color: #FFCCBC b; 
+}
+
+
+#coffee-varieties li {
+    font-size: 18px; 
+}
+#coffee-varieties li:hover {
+    color: white; 
+    text-shadow: 0 0 10px white, 0 0 20px white, 0 0 30px white; 
+}
+#coffee-varieties li a {
+    text-decoration: none; 
+    color: black; 
+}
+
+#coffee-varieties li a:hover {
+    color: white; 
+    text-shadow: 0 0 10px white, 0 0 20px white, 0 0 30px white; 
+}
+
+#brewing-tips li {
+    font-size: 18px; 
+    color: #FFC400;
+;
+}
+#shop p {
+    color: #FFFDE7; 
+}
+
+body {
+    background-image: url("http://wallpapercave.com/wp/Aww6cC4.jpg");
+    background-size: cover; 
+    background-repeat: no-repeat; 
+}
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; 
+    margin-bottom: 20px; 
+}
+
+nav {
+    display: flex;
+    justify-content: center; 
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black; 
+}
+
+
+body {
+    padding-top: 80px; 
+}
+nav ul li a {
+    text-decoration: none;
+    color: skyblue; 
+}
+
+nav ul li a:hover {
+    color: navy; 
+}
